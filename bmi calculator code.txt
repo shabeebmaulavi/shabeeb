@@ -1,0 +1,12 @@
+
+h = float(input("enter height in cm : "))
+w = float(input("Enter weight in kg : "))
+m = 1*h/100
+bmi=w/(m*m)
+print(f"your BMI result is {bmi}\n")
+if (bmi>18) & (bmi<22):
+    print("you bmi is perfect" )
+elif (bmi<18):
+    print("you have to incrase you'r weight")
+elif (bmi>22):
+    print("you have to burn your fat")

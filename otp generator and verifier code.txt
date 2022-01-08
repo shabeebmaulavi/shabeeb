@@ -1,0 +1,13 @@
+import random
+random_num = random.randint(1000 , 9999)
+OTP = random_num
+print(f"your four digit OTP is : {random_num}")
+x = int(input("enter your OTP : "))
+if (OTP == x ):
+    {
+        print("OTP verified ")
+    }
+else:
+    {
+        print("invalid OTP")
+    }

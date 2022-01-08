@@ -1,0 +1,37 @@
+BMI CALCULATOR   :   https://drive.google.com/file/d/1bndD3Jb7yHgK1Mpkd46nMbYn5MgOEU0c/view?usp=sharing
+This is BMI calculator . It is usually used for health purpose , by taking your height and weight ratio
+  it will suggest you have to loose or Gain weight
+
+*************************************
+
+OTP GENERATOR     :   https://drive.google.com/file/d/1MhX1afIakYVAGWMgY6K18vdoE_LvYPEt/view?usp=sharing
+This is my personal project .This small code us usually used to generate OTP (one time password) 
+which is used for security purpose .
+
+*************************************
+
+GMAIL COLLECTOR    :   https://drive.google.com/file/d/1E8trf7tvm-95fvx7jVt77N5XibqZUW-u/view?usp=sharing
+This is my personal project . This code is use to collect g-mail names and is increment by an
+ integer loop which is stored in a dictionary .
+(NOTE :   .com@ in projects is just to create confusion for developer , you can use @gmail.com  also )
+
+*************************************
+
+HACKER RANK 
+SOME BASIC TEST DONE BY ME :
+https://drive.google.com/file/d/16rvFsgR-kBXClK70t5XA3hg8R917aZjs/view?usp=sharing
+
+*************************************
+
+postgresql and mysql databases and solves queries
+1 :  https://drive.google.com/file/d/1TPBInL5CLvvz8wyo_mFMgJPBLlm_i7Xr/view?usp=sharing
+
+
+2 : https://drive.google.com/file/d/1wWcjI-HCo-vI9jSBwah1TbvidlEUTkxY/view?usp=sharing
+
+*************************************
+
+REAL TIME PYTHON PROJECT 
+
+https://drive.google.com/file/d/1WMq4hFawNPXZx6de2E4AlbQIvm4Dauip/view?usp=sharing
+

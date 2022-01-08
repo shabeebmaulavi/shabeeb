@@ -1,0 +1,36 @@
+
+d= {}
+l = []
+new=[]
+maximum=[]
+D={
+'trupti': 200 , 
+'shabeeb': 201,
+'yash' : 202
+}
+for m in D.values():
+    maximum.append(m)
+M=max(maximum)
+L = ['shabeeb.com@','trupti.com@','yash.com@','trupti.com@','yash.com@','xyz.com@','shabeeb.com@','merc.com@','bmw.com@','trupti.com@']
+high=[]
+for i in range(len (L)):
+    for j in D.keys():
+        if L[i][0:-5] not in D.keys():
+            new.append(L[i][0:-5])
+            break
+for upd in range(len(new)):
+    D.update({new[upd] :  M +upd +1})
+for x in D.values():
+    high.append(x)
+    high.sort()
+for i in range(len (L)):
+    for j in D.keys():
+        if L[i][0:-5]==j:           
+            l.append(str(D[j])+'.com@')
+d.update(D)
+print(f"the new list is:  \n{l}")
+print(f"the new dictionary is:\n {d}")
+
+
+
+
